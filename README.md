@@ -1,6 +1,3 @@
-Here is your complete `README.md` file with the additional details included:  
-
-
 # AI Resume Screener
 
 ## Description
