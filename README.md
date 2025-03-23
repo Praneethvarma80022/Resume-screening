@@ -1,3 +1,6 @@
+Here is your complete `README.md` file with the additional details included:  
+
+```md
 # AI Resume Screener
 
 ## Description
@@ -21,3 +24,33 @@ AI Resume Screener is a Flask-based web application that ranks and classifies re
    ```sh
    git clone https://github.com/Praneethvarma80022/Resume-screening.git
    cd Resume-screening
+   ```
+
+2. **Install dependencies:**
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+3. **Run the application:**
+   ```sh
+   streamlit run app.py
+   ```
+
+## Future Enhancements
+- Integrate NLP models like BERT/GPT for better ranking
+- Add multi-language support
+- Improve security measures
+- Implement deep learning for better resume analysis
+
+## Contributing
+Feel free to submit pull requests or report issues.
+
+## License
+This project is licensed under the MIT License.
+
+---
+
+This README provides an overview, installation guide, features, and future enhancements. Let me know if you need any modifications! 🚀
+```
+
+This file now includes everything you requested, formatted properly for readability. Let me know if you need any changes! 😊
